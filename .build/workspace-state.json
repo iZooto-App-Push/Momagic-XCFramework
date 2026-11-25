@@ -1,0 +1,33 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "momagic-xcframework",
+          "kind" : "root",
+          "location" : "/Users/rambali/Desktop/LiveSDKGitHub/Momagic-XCFramework",
+          "name" : "Momagic-XCFramework"
+        },
+        "path" : "/Users/rambali/Desktop/LiveSDKGitHub/Momagic-XCFramework/.build/artifacts/momagic-xcframework/MomagiciOSSDK/MomagiciOSSDK.xcframework",
+        "source" : {
+          "checksum" : "be32e036715be10e2bdf112cac56ac108fb2674f81211f9bdc91b57a79218a43",
+          "type" : "remote",
+          "url" : "https://github.com/iZooto-App-Push/Momagic-XCFramework/releases/download/1.0.0/MomagiciOSSDK.xcframework.zip"
+        },
+        "targetName" : "MomagiciOSSDK"
+      }
+    ],
+    "dependencies" : [
+
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

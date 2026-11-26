@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MomagiciOSSDK",
-            url: "https://github.com/iZooto-App-Push/Momagic-XCFramework/releases/download/1.0.0/MomagiciOSSDK.xcframework.zip",
-            checksum: "4cc29b33443bc91c5b10dd8e2aaa85a87d02dd871d4d1bc4ce129b301689cf2c"
+            url: "https://github.com/iZooto-App-Push/Momagic-XCFramework/releases/download/1.0.2/MomagiciOSSDK.xcframework.zip",
+                checksum: "f5100a27761ad7187891a7577c01a8487909e01ca883fc95eca70aa5fa128836"
         )
     ]
 )
